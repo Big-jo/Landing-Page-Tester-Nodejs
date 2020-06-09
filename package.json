@@ -16,7 +16,7 @@
     "trailingComma": "es5",
     "tabWidth": 2,
     "semi": true,
-    "singleQuote": false,
+    "singleQuote": true,
     "useTabs": false
   },
   "engines": {
